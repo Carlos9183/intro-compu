@@ -3,8 +3,8 @@
 # Informacion del perfil 
 # Introduccion✈🏢🏢
 Hola soy carlos entre a la carrera de computacio porque me apaciona la tecnologia y me encantaria aprender mucho de ella actualmente estoy cursando el primer semestre espero seguir avanzando en la carrerA Y Terminarla
-<div style="position: relative;"> crea un contenedor para el GIF. 
-<img src="https://i.chzbgr.com/full/8507870208/h210892D7/jonroru-pixel-art-beemo-gif" alt="GIF" style="position: absolute; top: 0; right: 0; width: 200px; height: auto;"> posiciona el GIF en la esquina superior derecha del contenedor. Puedes ajustar el width y height según tus preferencias.
+<div style="position: relative;">
+<img src="https://i.chzbgr.com/full/8507870208/h210892D7/jonroru-pixel-art-beemo-gif" alt="GIF" style="position:100px absolute; top: 2000px; right: 100px; width: 250px; height: auto;"> 
 mi nombre es Carlos Enrique Cisneros Garcia 🐱‍👤
 
 Tengo 18 años soy proveniente de oaxaca🌎
