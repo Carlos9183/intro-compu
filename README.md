@@ -33,3 +33,7 @@ Hi, I'm Carlos. I entered the computer science career because I'm passionate abo
 My spotify: https://open.spotify.com/user/31ibrcb35sxwyfpe6scz35kjyr4q?si=6777ecb313a646a9
 
 my instagram: https://www.instagram.com/carloscg866/
+
+GITHUB STATS
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
