@@ -1,16 +1,35 @@
-# intro-compu
-~~heroico en free fire~~ **estudiante de licenciatura en computacion**
-# Informacion del perfil 
-# Introduccion✈🏢🏢
-Hola soy carlos entre a la carrera de computacio porque me apaciona la tecnologia y me encantaria aprender mucho de ella actualmente estoy cursando el primer semestre espero seguir avanzando en la carrerA Y Terminarla
-<div style="position: relative;">
-<img src="https://i.chzbgr.com/full/8507870208/h210892D7/jonroru-pixel-art-beemo-gif" alt="GIF" style="position:100px absolute; top: 2000px; right: 100px; width: 250px; height: auto;"> 
-mi nombre es Carlos Enrique Cisneros Garcia 🐱‍👤
+# Hi World🌎
+<div style="position: relative; width: 100%; height: 500px;">
+  <img src="https://i.pinimg.com/736x/e7/3d/83/e73d832ac44aead6318137b4381bb0ee.jpg" alt="Tu Imagen" style="position: absolute; top: 200px; right: 0; width: 1000px; height:100px auto;">
+</div>
+<p>Introduccion✈🏢🏢</p>
+<hr style="border: none; height: 5px; background-color: black; width: 80%; margin: 20px auto;">
+<p></p>
 
-Tengo 18 años soy proveniente de oaxaca🌎
+~~heroico en free fire~~**estudiante de licenciatura en computacion**
 
+Hi, I'm Carlos. I entered the computer science career because I'm passionate about technology and I would love to learn a lot about it. I'm currently in the first semester. I hope to continue advancing in the career and finish it. 🐱‍👤
 
+<p>I am 18 years old and I am from Oaxaca.🌎
+</p>
+<hr style="border: none; height: 5px; background-color: black; width: 80%; margin: 20px auto;">
+<p>👨‍🎨 I am currently studying at .....</p>
 
+<p>All subjects such as circuits, introduction to computing, mathematics, among other things.<</p>
+<hr style="border: none; height: 5px; background-color: black; width: 80%; margin: 20px auto;">
+<p>📚 I'm currently learning....</p>
 
-![foto de perfil]([https://concepto.de/wp-content/uploads/2018/08/persona-e1533759195177-800x400.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcheezburger.com%2F520709%2Fgeek-memes-jonroru-pixel-art&psig=AOvVaw0oknk9LwTriSuyuZddnXm1&ust=1726083156519000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDmufyOuYgDFQAAAAAdAAAAABAe))
+<p>All subjects such as circuits, introduction to computing, mathematics, among other things.<</p>
+<hr style="border: none; height: 5px; background-color: black; width: 80%; margin: 20px auto;">
+<p>🎯Algunas tecnologías que uso:</p>
 
+<p>Oops. Maybe I didn't say it but I'm a beginner in the subject of programming so I don't know any kind of programming yet.
+.<</p>
+
+# 🌎   Find me around the web:
+
+-Emailme carloscisneros9183@gmail.com
+
+My spotify: https://open.spotify.com/user/31ibrcb35sxwyfpe6scz35kjyr4q?si=6777ecb313a646a9
+
+my instagram: https://www.instagram.com/carloscg866/
